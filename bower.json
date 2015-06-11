@@ -1,0 +1,28 @@
+{
+  "name": "plumpjs-utility",
+  "version": "0.1.0",
+  "homepage": "https://github.com/plumpjs/utility",
+  "authors": [
+    "James Martin-Davies <jamesmd@plumpdigital.co.uk>"
+  ],
+  "description": "Utility class with helper functions.",
+  "main": "src/utility.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "utility",
+    "class",
+    "helper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
